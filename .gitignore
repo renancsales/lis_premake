@@ -24,4 +24,10 @@ include/lisf.h
 include/stamp-h1
 libtool
 
+# Directories
+.vs/
+bin/
+bin-int/
 
+# Files
+*.user
